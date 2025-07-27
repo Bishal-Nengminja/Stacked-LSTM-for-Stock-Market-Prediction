@@ -195,18 +195,3 @@ See the `LICENSE` file for details.
 ---
 
 ⭐️ If you found this helpful, consider giving it a ⭐️ on GitHub!
-
-```
-
----
-
-### ✅ What you should do next:
-
-- Replace:
-  - `Bishal Nengminja` with your actual GitHub username.
-  - `[[Your GitHub Profile Link](https://github.com/Bishal-Nengminja)]` and `[your.email@example.com]` with your contact info (or remove if not needed).
-- Create a `LICENSE` file with [MIT License]([https://choosealicense.com/licenses/mit/](https://github.com/Bishal-Nengminja/Stacked-LSTM-for-Stock-Market-Prediction?tab=MIT-1-ov-file)).
-- Save this content into a file named `README.md` in your project root.
-
-Would you like me to generate this as a downloadable file or help create the LICENSE file next?
-```
